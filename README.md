@@ -1,0 +1,1 @@
+# ticket-managmant-system-and-artists-rating-system-
